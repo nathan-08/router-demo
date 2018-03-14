@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 20px;
+  /* border: 2px solid magenta;
+  padding: 8vh 20vw; */
+  /* height: 100vh; */
+  /* background-color: mediumaquamarine; */
+}
+.cp {
+  background-color: goldenrod;
+  height: 65vh;
+  border: 2px solid black;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.nav {
+  height: 20vh;
+  background-color: mediumaquamarine;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
